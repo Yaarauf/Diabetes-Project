@@ -17,3 +17,11 @@ Technologies Used
 - Pandas & NumPy
 - Scikit-learn
 - Matplotlib & Seaborn
+Key Steps
+- Handle missing values and outliers
+- Feature selection and scaling
+- Train-test split and model training
+- Performance evaluation (accuracy, confusion matrix)
+
+Results
+The logistic regression model achieved solid performance with an accuracy of approximately 85% on the test set. Features like *Glucose, **BMI, and **Age* had significant influence on predictions.
